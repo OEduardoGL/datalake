@@ -1,3 +1,3 @@
 # Data Lake
-## make build 
-## docker-compose up
+ make build 
+ docker-compose up
